@@ -1,5 +1,3 @@
-
-
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" alt="Waving Hand" style="vertical-align: middle;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=I'm+Phuc+Hau;Hi,+There!" alt="Typing SVG" style="vertical-align: middle;">
@@ -43,3 +41,6 @@
 ---
 
 ✨ Cảm ơn bạn đã ghé thăm! Hãy kết nối với tôi để cùng học hỏi và phát triển. 🚀
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Fireworks Animation" width="400" />
+</p>
