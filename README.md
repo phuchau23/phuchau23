@@ -22,6 +22,9 @@
   <a href="https://www.tiktok.com/@lphau204?lang=vi-VN" target="_blank">
     <img alt="TikTok" src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/h%E1%BA%ADu-l%C3%AA-ph%C3%BAc-44b28a362/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
