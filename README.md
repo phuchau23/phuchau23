@@ -1,8 +1,7 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" alt="Waving Hand" style="vertical-align: middle;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=I'm+Phuc+Hau;Hi,+There!" alt="Typing SVG" style="vertical-align: middle;">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=30&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hello,+GitHub+Traveler!;I'm+Phuc+Hau" alt="Typing SVG" style="vertical-align: middle;">
 </h1>
-
 <p align="center">
   <em>🎓 Currently studying at <strong>FPT University</strong></em>
 </p>
@@ -47,6 +46,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="50" height="50" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=phuchau23&show_icons=true&theme=radical&hide=prs,issues&hide_title=true" alt="Phuc Hau's GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phuchau23&theme=radical" alt="Phuc Hau's GitHub Streak" width="48%">
+</p>
+
+<p align="center">
+  <em>✨ <strong>Stats are cool</strong>, but the code is cooler! 😎</em>
 </p>
 
 ---
