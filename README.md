@@ -1,6 +1,6 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" alt="Waving Hand" style="vertical-align: middle;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=I'm+Phuc+Hau;Hi,+There!" alt="Typing SVG" style="vertical-align: middle;">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" alt="Waving Hand">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=I'm+Phuc+Hau;Welcome+to+my+profile!" alt="Typing SVG">
 </h1>
 
 <p align="center">
@@ -52,9 +52,10 @@
 ---
 
 ## 🎆 Fun Section
-<p align="center">
+<p align="center flex">
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Fireworks Animation" width="400" />
 </p>
+ <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2c2Ym9wbTR4d2d1aGV0amtuZXBtdG9yNG4wOGJrcmNzZmluYXBlcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" alt="Excited Animation" width="400">
 
 <p align="center">
   ✨ <strong>Thank you for visiting!</strong> Let's connect and grow together 🚀
