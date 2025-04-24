@@ -50,18 +50,19 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 GitHub Power Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phuchau23&show_icons=true&theme=radical&hide=prs,issues&hide_title=true" alt="Phuc Hau's GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phuchau23&theme=radical" alt="Phuc Hau's GitHub Streak" width="48%">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=phuchau23&show_icons=true&theme=merko&hide_title=true" alt="Phuc Hau's GitHub Stats" width="48%">
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phuchau23&theme=merko" alt="Phuc Hau's GitHub Streak" width="48%">
 </p>
 
 <p align="center">
-  <em>✨ <strong>Stats are cool</strong>, but the code is cooler! 😎</em>
+  <em>💻 <strong>Code is my superpower</strong>. Breaking bugs and building dreams! 🦸‍♂️</em>
 </p>
 
 ---
-
 ## 🎆 Fun Section
 <p align="center">
    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2c2Ym9wbTR4d2d1aGV0amtuZXBtdG9yNG4wOGJrcmNzZmluYXBlcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" alt="Excited Animation" width="600">
