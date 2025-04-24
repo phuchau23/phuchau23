@@ -1,4 +1,47 @@
-<h1 align="center">Xin chào, Tôi là Phúc Hậu 👋</h1>
+<h1 align="center">
+  <span style="color: #00FF00; font-family: 'Arial', sans-serif;">
+    <span style="display: inline-block; animation: fadeIn 0.5s ease-in-out forwards;" id="char1">X</span>
+    <span style="display: inline-block; animation: fadeIn 0.7s ease-in-out forwards;" id="char2">i</span>
+    <span style="display: inline-block; animation: fadeIn 0.9s ease-in-out forwards;" id="char3">n</span>
+    <span>&nbsp;</span>
+    <span style="display: inline-block; animation: fadeIn 1.1s ease-in-out forwards;" id="char4">c</span>
+    <span style="display: inline-block; animation: fadeIn 1.3s ease-in-out forwards;" id="char5">h</span>
+    <span style="display: inline-block; animation: fadeIn 1.5s ease-in-out forwards;" id="char6">à</span>
+    <span style="display: inline-block; animation: fadeIn 1.7s ease-in-out forwards;" id="char7">o</span>,
+    <span>&nbsp;</span>
+    <span style="display: inline-block; animation: fadeIn 1.9s ease-in-out forwards;" id="char8">t</span>
+    <span style="display: inline-block; animation: fadeIn 2.1s ease-in-out forwards;" id="char9">ô</span>
+    <span style="display: inline-block; animation: fadeIn 2.3s ease-in-out forwards;" id="char10">i</span>
+    <span>&nbsp;</span>
+    <span style="display: inline-block; animation: fadeIn 2.5s ease-in-out forwards;" id="char11">l</span>
+    <span style="display: inline-block; animation: fadeIn 2.7s ease-in-out forwards;" id="char12">à</span>
+    <span>&nbsp;</span>
+    <span style="display: inline-block; animation: fadeIn 2.9s ease-in-out forwards;" id="char13">L</span>
+    <span style="display: inline-block; animation: fadeIn 3.1s ease-in-out forwards;" id="char14">ê</span>
+    <span>&nbsp;</span>
+    <span style="display: inline-block; animation: fadeIn 3.3s ease-in-out forwards;" id="char15">P</span>
+    <span style="display: inline-block; animation: fadeIn 3.5s ease-in-out forwards;" id="char16">h</span>
+    <span style="display: inline-block; animation: fadeIn 3.7s ease-in-out forwards;" id="char17">ú</span>
+    <span style="display: inline-block; animation: fadeIn 3.9s ease-in-out forwards;" id="char18">c</span>
+    <span>&nbsp;</span>
+    <span style="display: inline-block; animation: fadeIn 4.1s ease-in-out forwards;" id="char19">H</span>
+    <span style="display: inline-block; animation: fadeIn 4.3s ease-in-out forwards;" id="char20">ậ</span>
+    <span style="display: inline-block; animation: fadeIn 4.5s ease-in-out forwards;" id="char21">u</span>
+  </span>
+</h1>
+
+<style>
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateX(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+</style>
 
 <p align="center">
   <img src="https://media1.tenor.com/m/exlorz1EKrAAAAAd/memedeck-nft.gif" alt="Welcome GIF" />
