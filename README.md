@@ -1,4 +1,9 @@
 ## Hi there 👋
+Hi, I'm Swindsurf! 👋  
+💻 I'm passionate about web development & windsurfing  
+🎓 Currently studying at FPT University  
+🌊 Building a project called **Windsurf** - stay tuned!
+
 
 <!--
 **phuchau23/phuchau23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
