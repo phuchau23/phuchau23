@@ -4,14 +4,16 @@
 </h1>
 
 <p align="center">
-  <em>📌 I'm currently studying at FPTU</em>
+  <em>🎓 Currently studying at <strong>FPT University</strong></em>
 </p>
 <p align="center">
-  <img src="https://media1.tenor.com/m/exlorz1EKrAAAAAd/memedeck-nft.gif" alt="Welcome GIF">
+  <img src="https://media1.tenor.com/m/exlorz1EKrAAAAAd/memedeck-nft.gif" alt="Welcome GIF" width="350">
 </p>
 
-<h3>Where to find me</h3>
-<p>
+---
+
+## 🌐 Connect with Me
+<p align="center">
   <a href="https://github.com/phuchau23" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a> 
@@ -23,8 +25,11 @@
   </a>
 </p>
 
-## 🛠️ Công cụ và Công nghệ:
+---
+
+## 🛠️ Tools & Technologies
 <p align="center">
+  <!-- Grouped Icons -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" title="Spring Boot" alt="Spring Boot" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" title=".NET" alt=".NET" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="ReactJS" alt="ReactJS" width="50" height="50" />
@@ -43,9 +48,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="50" height="50" />
 </p>
+
 ---
 
-✨ Cảm ơn bạn đã ghé thăm! Hãy kết nối với tôi để cùng học hỏi và phát triển. 🚀
+## 🎆 Fun Section
 <p align="center">
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Fireworks Animation" width="400" />
+</p>
+
+<p align="center">
+  ✨ <strong>Thank you for visiting!</strong> Let's connect and grow together 🚀
 </p>
