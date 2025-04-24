@@ -1,15 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&multiline=true&width=435&lines=Xin+ch%C3%A0o%2C+t%C3%B4i+l%C3%A0+L%C3%AA+Ph%C3%BAc+H%E1%BA%ADu" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&multiline=true&width=435&lines=L%C3%AA+Ph%C3%BAc+H%E1%BA%ADu+Th%C3%B4i" alt="Typing SVG">
 </h1>
 
 <p align="center">
   <img src="https://media1.tenor.com/m/exlorz1EKrAAAAAd/memedeck-nft.gif" alt="Welcome GIF">
 </p>
-
-<p align="center">
-  <img src="https://media1.tenor.com/m/exlorz1EKrAAAAAd/memedeck-nft.gif" alt="Welcome GIF" />
-</p>
-
 ---
 
 ## 🌟 Về tôi:
