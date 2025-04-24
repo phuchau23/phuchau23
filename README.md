@@ -1,5 +1,8 @@
+
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&multiline=true&width=435&lines=I'm+Phuc+Hau" alt="Typing SVG">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" alt="Waving Hand" style="vertical-align: middle;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=I'm+Phuc+Hau;Hi,+There!" alt="Typing SVG" style="vertical-align: middle;">
 </h1>
 
 <p align="center">
@@ -8,7 +11,19 @@
 <p align="center">
   <img src="https://media1.tenor.com/m/exlorz1EKrAAAAAd/memedeck-nft.gif" alt="Welcome GIF">
 </p>
----
+
+<h3>Where to find me</h3>
+<p>
+  <a href="https://github.com/thmsgbrt" target="_blank">
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  </a> 
+  <a href="https://www.facebook.com/hauisme.inf/" target="_blank">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+  </a> 
+  <a href="https://www.tiktok.com/@lphau204?lang=vi-VN" target="_blank">
+    <img alt="TikTok" src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+</p>
 
 ## 🌟 Về tôi:
 - 🔭 Tôi đang học **Backend (BE)** và **Frontend (FE)**.
